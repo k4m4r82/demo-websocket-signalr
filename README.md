@@ -1,4 +1,4 @@
-## Demo Solusi Mengakses Database Lokal (IP Private) Secara Online Bagian #1
+## Demo Solusi Mengakses Database Lokal (IP Private) Secara Online
 
 Terdiri dari 3 aplikasi:
 
@@ -7,3 +7,5 @@ Terdiri dari 3 aplikasi:
 3. [MobileApp](https://github.com/k4m4r82/demo-websocket-signalr/releases/download/v1.0.0/03.MobileApp.zip) - Aplikasi klien mobile. Untuk menginstall aplikasi mobile Anda harus mengaktifkan setting `install unknown apps`.
 
 Download aplikasi di https://github.com/k4m4r82/demo-websocket-signalr/releases
+
+Sumber: http://coding4ever.net/blog/2019/08/25/solusi-mengakses-database-lokal-ip-private-secara-online/
